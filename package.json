@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/johinsDev/bloggingReact/issues"
   },
-  "homepage": "https://github.com/johinsDev/bloggingReact#readme"
+  "homepage": "https://github.com/johinsDev/bloggingReact#readme",
+  "dependencies": {
+    "react": "^15.5.4"
+  }
 }
